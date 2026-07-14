@@ -3,7 +3,7 @@
   "id": "https://iiif-manifest.lib.uchicago.edu/<arkID>",
   "type": "Manifest",
 
-  "label": { "en": ["<Logbook Number>"] },
+  "label": { "en": ["<Plate Title>"] },
   "behavior": ["unordered"],
   "rights": "https://creativecommons.org/licenses/by-nc/4.0/",
   "requiredStatement": {
